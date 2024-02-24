@@ -1,4 +1,4 @@
-package ru.irenademchenkova.dao_layer;
+package ru.home.dao_layer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

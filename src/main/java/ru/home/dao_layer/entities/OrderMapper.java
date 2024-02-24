@@ -1,4 +1,4 @@
-package ru.irenademchenkova.dao_layer.entities;
+package ru.home.dao_layer.entities;
 
 import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Component;

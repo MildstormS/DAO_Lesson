@@ -1,11 +1,11 @@
-package ru.irenademchenkova.dao_layer.repository;
+package ru.home.dao_layer.repository;
 
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.jdbc.core.namedparam.MapSqlParameterSource;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 import org.springframework.stereotype.Repository;
-import ru.irenademchenkova.dao_layer.entities.Order;
-import ru.irenademchenkova.dao_layer.entities.OrderMapper;
+import ru.home.dao_layer.entities.Order;
+import ru.home.dao_layer.entities.OrderMapper;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package ru.irenademchenkova.dao_layer.controller;
+package ru.home.dao_layer.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
